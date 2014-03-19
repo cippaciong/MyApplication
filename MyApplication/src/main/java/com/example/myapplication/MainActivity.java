@@ -1,5 +1,7 @@
 package com.example.myapplication;
 
+// This is a comment
+
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
